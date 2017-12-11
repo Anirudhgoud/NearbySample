@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#263238</color>
+    <color name="colorPrimaryDark">#232228</color>
+    <color name="colorAccent">#4f5b62</color>
+    <color name="colorBlack">#444154</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="semiTransparent">#33000000</color>
+    <color name="glassTransparent">#1AFFFFFF</color>
+    <color name="lightGrey">#F8F8F8</color>
+    <color name="colorGreen">#008C67</color>
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "545857373634",
+    "firebase_url": "https://cybrilla-7f24e.firebaseio.com",
+    "project_id": "cybrilla-7f24e",
+    "storage_bucket": "cybrilla-7f24e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545857373634:android:86e5af2e5dd2d7d2",
+        "android_client_info": {
+          "package_name": "com.cybrilla.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545857373634-8dee2isu435mka8h3k6naqnnseolui8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVNpookCJaI5fVk1qltuPl7TZL-hmlm2s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

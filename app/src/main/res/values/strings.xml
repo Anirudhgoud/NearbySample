@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NearbyPlaces</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="create_account">Don\'t have an account yet?Sign up.</string>
+    <string name="please_enter_valid_email">Please enter valid email</string>
+    <string name="please_enter_valid_password">please enter password</string>
+    <string name="login_success">You are successfully logged in</string>
+    <string name="loading">Loading</string>
+    <string name="invalid_login">Invalid login.please try again</string>
+    <string name="please_enable_internet">Please enable network connecttion</string>
+    <string name="google_maps_key"> AIzaSyB9SnxcVlBcyDyE0xGIj9Pg1YaLEK7q3qI</string>
+    <string name="won_t_run_unless_you_update_google_play_services" translatable="false"> your app won\'t run until play services is installed</string>
+    <string name="exit">exit</string>
+    <string name="update">update</string>
+    <string name="market_uri" translatable="false">market://details?id=</string>
+    <string name="google_play_url" translatable="false">https://play.google.com/store/apps/details?id=</string>
+    <string name="nearby_places">Nearby Restaurants</string>
+
+</resources>
